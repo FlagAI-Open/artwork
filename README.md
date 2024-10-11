@@ -1,3 +1,4 @@
+[<img src="flagopen.jpeg">](https://flagopen.baai.ac.cn/)
 # FlagAI Related Logos and Artwork 
 In this repo, we provide Adlik artwork in 2 standard formats (PNG/SVG), 3 versions (horizontal, stacked, icon) and 3 colors (color/black/white). 
 
